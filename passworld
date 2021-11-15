@@ -666,7 +666,7 @@ def tous() :
         if all_script == str("O"):
             suplst = input("Voulez vous supprimer la worldlist ? ( O ou N ) : ")
             if suplst == str("O"):
-                os.system("rm .\worldlst")
+                os.system("rm worldlst")
                 tous()
             if suplst == str("N") :
                 tous()
@@ -678,7 +678,7 @@ def tous() :
         if all_script == str("O"):
             suplst = input("Voulez vous supprimer la worldlist ? ( O ou N ) : ")
             if suplst == str("O"):
-                os.system("rm .\worldlst")
+                os.system("rm worldlst")
                 tous()
             if suplst == str("N") :
                 tous()
