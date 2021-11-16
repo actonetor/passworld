@@ -27,7 +27,7 @@ chmod 777 passworld
     - [ ] date de naissance 
     - [ ] info famille
 
-#  MISE A JOUR LE 25/11/2021
+#  MISE A JOUR LE 16/11/2021
 
 - [x] mot cles
     - [x] Nom d'utilisateur ( obligatoire )
